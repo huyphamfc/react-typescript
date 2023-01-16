@@ -1,9 +1,9 @@
 import React from 'react';
 
-import MyCheckbox from './03--checkbox';
+import MyForm from './04--form';
 
 function App() {
-  return <MyCheckbox />;
+  return <MyForm />;
 }
 
 export default App;
