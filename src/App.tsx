@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Counter from './01--counter';
+import MyInput from './02--text-field';
 
 function App() {
-  return <Counter />;
+  return <MyInput />;
 }
 
 export default App;
