@@ -1,9 +1,9 @@
 import React from 'react';
 
-import FormObject from './05--form-object';
+import FormNestedObject from './06--form-nested-object';
 
 function App() {
-  return <FormObject />;
+  return <FormNestedObject />;
 }
 
 export default App;
