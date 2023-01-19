@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Todo from './07--list';
+import MyComponent from './08--previous-render';
 
 function App() {
-  return <Todo />;
+  return <MyComponent />;
 }
 
 export default App;
