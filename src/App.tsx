@@ -1,9 +1,9 @@
 import React from 'react';
 
-import MyComponent from './09--resetting-key';
+import MyTitle from './10--title';
 
 function App() {
-  return <MyComponent />;
+  return <MyTitle />;
 }
 
 export default App;
