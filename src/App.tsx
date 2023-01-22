@@ -1,9 +1,9 @@
 import React from 'react';
 
-import MyTitle from './10--title';
+import MyComponent from './11--fetching-data';
 
 function App() {
-  return <MyTitle />;
+  return <MyComponent />;
 }
 
 export default App;
