@@ -1,9 +1,9 @@
 import React from 'react';
 
-import MyComponent from './11--fetching-data';
+import MyTabs from './12--tabs';
 
 function App() {
-  return <MyComponent />;
+  return <MyTabs />;
 }
 
 export default App;
