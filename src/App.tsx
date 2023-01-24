@@ -1,9 +1,9 @@
 import React from 'react';
 
-import MyTabs from './12--tabs';
+import MyServer from './13--chat-server';
 
 function App() {
-  return <MyTabs />;
+  return <MyServer />;
 }
 
 export default App;
