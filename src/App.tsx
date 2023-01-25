@@ -1,9 +1,9 @@
 import React from 'react';
 
-import MyServer from './13--chat-server';
+import MyPointer from './14--pointer-move';
 
 function App() {
-  return <MyServer />;
+  return <MyPointer />;
 }
 
 export default App;
