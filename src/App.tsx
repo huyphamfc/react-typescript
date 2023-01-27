@@ -1,9 +1,9 @@
 import React from 'react';
 
-import MyCounter from './15--click-counter';
+import Stopwatch from './16--stop-watch';
 
 function App() {
-  return <MyCounter />;
+  return <Stopwatch />;
 }
 
 export default App;
