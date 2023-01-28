@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Stopwatch from './16--stop-watch';
+import MyForm from './17--focus-form-input';
 
 function App() {
-  return <Stopwatch />;
+  return <MyForm />;
 }
 
 export default App;
