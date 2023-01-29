@@ -1,9 +1,9 @@
 import React from 'react';
 
-import MyForm from './17--focus-form-input';
+import MyVideo from './18--video';
 
 function App() {
-  return <MyForm />;
+  return <MyVideo />;
 }
 
 export default App;
