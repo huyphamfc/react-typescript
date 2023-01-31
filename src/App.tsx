@@ -1,9 +1,9 @@
 import React from 'react';
 
-import MyVideo from './18--video';
+import MyAnimation from './19--animation';
 
 function App() {
-  return <MyVideo />;
+  return <MyAnimation />;
 }
 
 export default App;
