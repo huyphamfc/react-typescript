@@ -1,9 +1,9 @@
 import React from 'react';
 
-import MyAnimation from './19--animation';
+import MyComponent from './20--memo';
 
 function App() {
-  return <MyAnimation />;
+  return <MyComponent />;
 }
 
 export default App;
