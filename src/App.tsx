@@ -1,6 +1,6 @@
 import React from 'react';
 
-import MyComponent from './20--memo';
+import MyComponent from './21--virtual-DOM';
 
 function App() {
   return <MyComponent />;
