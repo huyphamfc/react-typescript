@@ -1,6 +1,6 @@
 import React from 'react';
 
-import MyComponent from './21--virtual-DOM';
+import MyComponent from './22--lifecycle';
 
 function App() {
   return <MyComponent />;
